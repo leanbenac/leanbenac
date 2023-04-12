@@ -2,9 +2,11 @@
 <h1>Hi! 👋, I´m Leandro</h1>
 
 <h3 align="center">I am a frontend developer from Argentina, passionate about technology and visual art. I am excited to immerse myself in innovative environments to continue my personal and professional growth. I am self-taught and have also taken some courses. Every day, I seek to experiment with new challenges, learning different programming languages and tools for future projects.
-</h3><h3 align="center"> Currently, I am studying backend development with Nodejs and Express.
 </h3>
       <img alt="developer-dog"src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif">
+      <h3 align="center"> Currently, I am studying backend development with Nodejs and Express.
+</h3>
+      
 </div>
 
 ---
@@ -27,8 +29,9 @@
 
  
 <div> 
-  <a href = "benacleandro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandrobenacfrontend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "benacleandro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 </div>
 
 
