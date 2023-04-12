@@ -1,7 +1,9 @@
 <div align="center">
-<h1 >Hello 👋, soy leandro</h1>
+<h1>Hi! 👋, I´m Leandro</h1>
 
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">I am a frontend developer from Argentina, passionate about technology and visual art. I am excited to immerse myself in innovative environments to continue my personal and professional growth. I am self-taught and have also taken some courses. Every day, I seek to experiment with new challenges, learning different programming languages and tools for future projects.
+</h3><h3 align="center"> Currently, I am studying backend development with Nodejs and Express.
+</h3>
       <img alt="developer-dog"src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif">
 </div>
 
@@ -10,11 +12,16 @@
 <h3 align="center">My skills and tools</h3>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bootstrap" height="38" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="firebase" height="38" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="firebase" height="38" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+
 </div>
+
 
   ##
 
