@@ -1,7 +1,7 @@
 <div align="center">
 <h1>¡Hey👋! Soy Leandro👨🏻‍💻</h1>
 
-<h3 align="center">I am a frontend developer from Argentina, passionate about technology and visual art. I am excited to immerse myself in innovative environments to continue my personal and professional growth. I am self-taught and have also taken some courses. Every day, I seek to experiment with new challenges, learning different programming languages and tools for future projects.
+<h3 align="center">I'm a frontend developer from Argentina, passionate about technology and visual arts. I am excited to immerse myself in innovative environments to continue my personal and professional growth. Every day I seek to experience new challenges, learning different programming languages and tools for future projects.
 </h3>
       <img alt="developer-dog"src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif">
       <h3 align="center"> Currently, I am studying backend development with Nodejs and Express.
