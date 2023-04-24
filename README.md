@@ -19,8 +19,11 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bootstrap" height="38" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="firebase" height="38" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="firebase" height="38" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  <img align="center" alt="sass" height="38" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  <img align="center" alt="git" height="36" width="38" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 
+
+      
 </div>
 
 
