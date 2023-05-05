@@ -1,5 +1,5 @@
 <div align="center">
-<h1>¡Hey👋! Soy Leandro👨🏻‍💻</h1>
+<h1>¡Hey👋! I am Leandro👨🏻‍💻</h1>
 
 <h3 align="center">I'm a frontend developer from Argentina, passionate about technology and visual arts. I am excited to immerse myself in innovative environments to continue my personal and professional growth. Every day I seek to experience new challenges, learning different programming languages and tools for future projects.
 </h3>
