@@ -1,41 +1,66 @@
 <div align="center">
-<h1>¡Hey👋! I am Leandro👨🏻‍💻</h1>
+  <h1>¡Hey👋! I am Leandro Benac</h1>
+  <p><strong>Frontend Developer & Automation Specialist from Argentina</strong></p>
 
-<h3 align="center">I'm a frontend developer from Argentina, passionate about technology and visual arts. I am excited to immerse myself in innovative environments to continue my personal and professional growth. Every day I seek to experience new challenges, learning different programming languages and tools for future projects.
-</h3>
-      <img alt="developer-dog"src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif">
-      <h3 align="center"> Currently, I am studying backend development with Nodejs and Express 🚀</h3>
-      
+  <p align="center">
+    <a href="https://www.linkedin.com/in/leandrobenacfrontend/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a> 
+    <a href="mailto:benacleandro@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </p>
 </div>
 
 ---
 
-<h3 align="center">My skills and tools</h3>
+### 👨‍💻 About Me
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bootstrap" height="38" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="firebase" height="38" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="sass" height="38" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-  <img align="center" alt="git" height="36" width="38" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+I am a **Frontend Developer at VML**, currently delivering enterprise-level digital experiences for major global brands like **Ford** and previously **Colgate**. Beyond writing clean, scalable UI code, I am deeply passionate about efficiency, technical agility, and workflow automation. 
 
+I don't just build interfaces; I love connecting systems, process optimization, and integrating AI into daily development workflows to build robust, modern web applications.
 
-      
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" width="320" alt="Developer Dog GIF" />
+</p>
 
+---
 
-  ##
+### 🛠️ Tech Stack & Ecosystem
 
- 
-<div> 
-  <a href="https://www.linkedin.com/in/leandrobenacfrontend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:benacleandro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
-</div>
+<b style="font-size: 16px;">Core Frontend & Languages</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" alt="Frontend Stack" />
+</p>
 
+<b style="font-size: 16px;">Backend, Cloud & CMS</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,vercel,git,github" alt="Backend and Tools" />
+  <img src="https://img.shields.io/badge/Adobe%20AEM-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="AEM" height="48" style="vertical-align: top; margin-left: 4px;" />
+</p>
 
-##
--Readme in progrees...
+---
+
+### ⚙️ Automation & Workflows
+
+I enjoy optimizing processes and architectural workflows to boost productivity. 
+
+* **🚀 Workflow Automation:** Designing and managing self-hosted **n8n** instances on private VPS to orchestrate integrations (Telegram bots, CRMs, webhooks, and automated stock updates).
+* **🤖 AI-Driven Development:** Scaling my daily throughput using **GitHub Copilot**, **Perplexity Pro**, and advanced terminal environments like **Warp**.
+
+---
+
+### 📊 Performance & GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leanbenac&theme=tokyonight&hide_border=true" alt="Lean's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leanbenac&theme=tokyonight" alt="Lean's GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <br />
+  <em>"Automate the predictable, so you can humanize the exceptional."</em>
+</p>
