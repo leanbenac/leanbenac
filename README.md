@@ -53,10 +53,6 @@ I enjoy optimizing processes and architectural workflows to boost productivity.
 ### 📊 Performance & GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leanbenac&theme=tokyonight&hide_border=true" alt="Lean's GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leanbenac&theme=tokyonight" alt="Lean's GitHub Profile Details" />
 </p>
 
