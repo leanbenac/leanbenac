@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Frontend Developer at VML**, currently delivering enterprise-level digital experiences for major global brands like **Ford** and previously **Colgate**. Beyond writing clean, scalable UI code, I am deeply passionate about efficiency, technical agility, and workflow automation. 
+I am a **Frontend Developer at VML**, currently part of the **Automation Squad** delivering enterprise-level digital experiences and workflow solutions for **Ford**, having previously worked on the **Colgate** account. Beyond writing clean, scalable UI code, I am deeply passionate about efficiency, technical agility, and engineering smart automations. 
 
 I don't just build interfaces; I love connecting systems, process optimization, and integrating AI into daily development workflows to build robust, modern web applications.
 
@@ -28,15 +28,16 @@ I don't just build interfaces; I love connecting systems, process optimization, 
 
 ### 🛠️ Tech Stack & Ecosystem
 
-<b style="font-size: 16px;">Core Frontend & Languages</b>
+#### 💻 Core Frontend & Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" alt="Frontend Stack" />
 </p>
 
-<b style="font-size: 16px;">Backend, Cloud & CMS</b>
+#### ☁️ Backend, Cloud & Integrations
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,supabase,vercel,git,github" alt="Backend and Tools" />
   <img src="https://img.shields.io/badge/Adobe%20AEM-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="AEM" height="48" style="vertical-align: top; margin-left: 4px;" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="48" style="vertical-align: top; margin-left: 4px;" />
 </p>
 
 ---
@@ -47,6 +48,12 @@ I enjoy optimizing processes and architectural workflows to boost productivity.
 
 * **🚀 Workflow Automation:** Designing and managing self-hosted **n8n** instances on private VPS to orchestrate integrations (Telegram bots, CRMs, webhooks, and automated stock updates).
 * **🤖 AI-Driven Development:** Scaling my daily throughput using **GitHub Copilot**, **Perplexity Pro**, and advanced terminal environments like **Warp**.
+
+---
+
+### 🎧 Beyond the Screen
+
+When I'm not writing code or building automations, you can find me producing and mixing **Techno Hipnótico Raw**, hitting the heavy bag at boxing training, or taking my motorcycle out for a ride.
 
 ---
 
